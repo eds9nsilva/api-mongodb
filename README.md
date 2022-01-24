@@ -47,7 +47,7 @@ DELETE	/classes/comments/:id	(Excluir um comentário) <br><br>
 O arquivo do Insomnia(JSON) de rotas está na pasta 'Testes'
 
 
-## Meu contato :wrench:
+## Meu contato :iphone:
 Email: antonioedson99@gmail.com <br>>
 LinkedIn: [Edson silva](https://www.linkedin.com/in/edson-da-silva-882608135/)
 
