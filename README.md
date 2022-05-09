@@ -49,5 +49,5 @@ O arquivo do Insomnia(JSON) de rotas está na pasta 'Testes'
 
 ## Meu contato :iphone:
 Email: antonioedson99@gmail.com <br>>
-LinkedIn: [Edson silva](https://www.linkedin.com/in/edson-da-silva-882608135/)
+LinkedIn: [Edson silva](https://www.linkedin.com/in/eds9nsilva/)
 
